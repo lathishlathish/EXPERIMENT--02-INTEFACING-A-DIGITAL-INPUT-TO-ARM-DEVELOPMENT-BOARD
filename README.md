@@ -170,7 +170,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output :
-![programming micro controlers ](https://user-images.githubusercontent.com/120359170/227978393-163ac32f-9471-4cc9-8d5a-0a7af670831d.jpg)
+![exp 2 board](https://user-images.githubusercontent.com/120359170/227999359-51b4580d-cc76-4464-b1aa-e4b5ca1c0372.png)
+
 
 
 
